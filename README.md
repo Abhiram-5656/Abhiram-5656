@@ -109,15 +109,7 @@
 </p>
 
 ---
-# 📊 GitHub Overview
 
-<p align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhiram-5656&theme=tokyonight"/>
-
-</p>
-
----
 # 📅 Contribution Calendar
 
 <p align="center">

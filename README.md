@@ -56,6 +56,9 @@
 <a href="https://github.com/Abhiram-5656">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+<a href="https://leetcode.com/u/2200031123/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </p>
 

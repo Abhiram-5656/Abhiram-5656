@@ -1,8 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,25:203A43,50:2C5364,75:00C9FF,100:92FE9D&text=Nalla%20Abhiram&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Java%20Developer%20|%20Full%20Stack%20Developer%20|%20AWS%20|%20DevOps&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Nalla%20Abhiram&fontSize=60&fontColor=ffffff&animation=fadeIn&color=gradient&customColorList=6,11,20,24,30"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Nalla+Abhiram;Software+Engineer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;AWS+%7C+DevOps+Enthusiast;Open+Source+Learner;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Spring+Boot;MERN+Stack;AWS+Cloud;DevOps;Open+Source+Contributor"/>
+
 
 <br>
 

@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://abhi-portfolio-theta-ten.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Abhiram-5656">

@@ -106,12 +106,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhiram-5656&theme=algolia&no-frame=true&margin-w=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhiram-5656&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
-
----
 
 # 📅 Contribution Calendar
 

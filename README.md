@@ -29,7 +29,7 @@
 </div>
 
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
 # 👨‍💻 About Me
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212744275-2d06c6d6-6d7c-40cf-b1e0-c6d2dcfd7f6f.gif"/>

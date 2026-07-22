@@ -3,6 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Nalla%20Abhiram&fontSize=60&fontColor=ffffff&animation=fadeIn&color=gradient&customColorList=6,11,20,24,30"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Spring+Boot;MERN+Stack;AWS+Cloud;DevOps;Open+Source+Contributor"/>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
+
+</p>
 
 
 <br>

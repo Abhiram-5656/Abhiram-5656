@@ -102,11 +102,11 @@
 </p>
 
 ---
-# 🏆 GitHub Trophies
+# 📊 GitHub Overview
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhiram-5656&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhiram-5656&theme=tokyonight"/>
 
 </p>
 
